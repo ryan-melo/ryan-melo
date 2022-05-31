@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryan-melo
 - 👀 I’m a enthusiast in the world of technology
 - 🌱 I’m currently learning the basics of programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
