@@ -1,4 +1,4 @@
-# Hi, My names's Ryan Melo, I’m a enthusiast in the world of technology, I’m currently learning the basics of programming!
+# Hi, My name's Ryan Melo, I’m a enthusiast in the world of technology, I’m currently working with Front-End technologies!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-melo&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-melo&layout=compact&theme=transparent)](https://github.com/ryan-melo/github-readme-stats)
 :------: | :------:
 
