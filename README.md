@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, My name's Ryan Melo, I’m a enthusiast in the world of technology, I’m currently working with Front-End technologies!
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, My name's Ryan Melo, I’m a enthusiast in the world of technology, I’m currently a computer science student!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-melo&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-melo&layout=compact&theme=transparent)](https://github.com/ryan-melo/github-readme-stats)
 :------: | :------:
 
